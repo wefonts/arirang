@@ -1,5 +1,5 @@
 # arirang
-밀양아리랑체
+밀양 아리랑체
 
 <pre>
 @font-face {
